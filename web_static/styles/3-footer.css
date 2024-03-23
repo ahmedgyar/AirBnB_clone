@@ -1,0 +1,13 @@
+footer {
+    background-color: white;
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: center; /* aligns items horizontally in the center */
+    align-items: center; /* aligns items vertically in the center */
+    margin-top: auto; /* pushes the footer to the bottom */
+    border-top: 1px solid #CCCCCC; /* adds a border at the top */
+    position: fixed;
+    bottom: 0;
+}
+
